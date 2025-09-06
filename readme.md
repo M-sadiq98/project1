@@ -1,2 +1,2 @@
 # new local repo
-Practice local repo
+Practice local repo.
